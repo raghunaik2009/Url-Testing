@@ -1,0 +1,602 @@
+http://wwww.stackoverflow.com
+http://stackoverflow.com/questions/6427530/regular-expression-pattern-to-match-url-with
+http://www.youtube.com
+http://www.facebook.com
+http://www.baidu.com
+http://www.yahoo.com
+http://www.amazon.com
+http://www.wikipedia.org
+http://www.qq.com
+http://www.google.co.in
+http://www.twitter.com
+http://www.live.com
+http://www.taobao.com
+http://www.bing.com
+http://www.instagram.com
+http://www.weibo.com
+http://www.sina.com.fi
+http://www.linkedin.com
+http://www.yahoo.co.fi
+http://www.msn.com
+http://www.vk.com
+http://www.google.de
+http://www.yandex.ru
+http://www.hao123.com
+http://www.google.co.uk
+http://www.reddit.com
+http://www.ebay.com
+http://www.google.fi
+http://www.t.co
+http://www.tmall.com
+http://www.google.com.br
+http://www.360.cn
+http://www.sohu.com
+http://www.amazon.co.fi
+http://www.pinterest.com
+http://www.netflix.com
+http://www.google.it
+http://www.google.ru
+http://www.microsoft.com
+http://www.google.fi
+http://www.wordpress.com
+http://www.gmw.cn
+http://www.tumblr.com
+http://www.paypal.com
+http://www.blogspot.com
+http://www.imgur.com
+http://www.stackoverflow.com
+http://www.aliexpress.com
+http://www.naver.com
+http://www.ok.ru
+http://www.apple.com
+http://www.github.com
+http://www.chinadaily.com.cn
+http://www.imdb.com
+http://www.google.co.kr
+http://www.fc2.com
+http://www.jd.com
+http://www.blogger.com
+http://www.163.com
+http://www.google.ca
+http://www.whatsapp.com
+http://www.amazon.in
+http://www.office.com
+http://www.tianya.cn
+http://www.google.co.id
+http://www.youku.com
+http://www.rakuten.co.fi
+http://www.craigslist.org
+http://www.amazon.de
+http://www.nicovideo.fi
+http://www.google.pl
+http://www.soso.com
+http://www.bilibili.com
+http://www.dropbox.com
+http://www.xinhuanet.com
+http://www.outbrain.com
+http://www.pixnet.net
+http://www.alibaba.com
+http://www.alipay.com
+http://www.microsoftonline.com
+http://www.booking.com
+http://www.googleusercontent.com
+http://www.google.com.au
+http://www.popads.net
+http://www.cntv.cn
+http://www.zhihu.com
+http://www.amazon.co.uk
+http://www.diply.com
+http://www.coccoc.com
+http://www.cnn.com
+http://www.bbc.co.uk
+http://www.twitch.tv
+http://www.wikia.com
+http://www.google.co.th
+http://www.go.com
+http://www.google.com.ph
+http://www.doubleclick.net
+http://www.onet.pl
+http://www.googleadservices.com
+http://www.accuweather.com
+http://www.googleweblight.com
+http://www.answers.yahoo.com
+               www.google.com
+                microsoft.com
+                    apple.com
+                  youtube.com
+              www.blogger.com
+           support.google.com
+              play.google.com
+              docs.google.com
+                    adobe.com
+             sites.google.com
+             en.wikipedia.org
+                  mozilla.org
+          accounts.google.com
+              plus.google.com
+                wordpress.org
+        googleusercontent.com
+                   github.com
+                     youtu.be
+             drive.google.com
+          creativecommons.org
+                    vimeo.com
+              maps.google.com
+                 linkedin.com
+                   uol.com.br
+                    europa.eu
+               cloudflare.com
+                   amazon.com
+                    bbc.co.uk
+              dailymotion.com
+                     live.com
+              bp.blogspot.com
+              istockphoto.com
+                       vk.com
+                   medium.com
+                  reuters.com
+                  myspace.com
+        developers.google.com
+                  dropbox.com
+              news.google.com
+                   forbes.com
+                      nih.gov
+                 google.co.uk
+                      mail.ru
+                      bbc.com
+                      cnn.com
+                     imdb.com
+               slideshare.net
+                  gstatic.com
+            photos.google.com
+                 google.co.fi
+                  nytimes.com
+                bloomberg.com
+                 whatsapp.com
+             fr.wikipedia.org
+             pt.wikipedia.org
+       networkadvertising.org
+                     cnet.com
+                      line.fi
+                www.yahoo.com
+              mail.google.com
+                 facebook.com
+                       w3.org
+              theguardian.com
+               feedburner.com
+                wikimedia.org
+                 amazon.co.fi
+                mediafire.com
+           washingtonpost.com
+                    google.de
+              hugedomains.com
+                google.com.br
+                    opera.com
+                      msn.com
+             es.wikipedia.org
+               news.yahoo.com
+                   paypal.com
+                    issuu.com
+                  harvard.edu
+           huffingtonpost.com
+                       rt.com
+                   elpais.com
+             id.wikipedia.org
+                     bing.com
+             steampowered.com
+                       bit.ly
+                  samsung.com
+                   oracle.com
+        youronlinechoices.com
+                    google.fi
+            groups.google.com
+         picasaweb.google.com
+                    globo.com
+                      aol.com
+                       un.org
+                 engadget.com
+                      ted.com
+            independent.co.uk
+                       fb.com
+                    wired.com
+                   fandom.com
+                    google.it
+             de.wikipedia.org
+                     nasa.gov
+                 terra.com.br
+              telegraph.co.uk
+                aboutads.info
+              dailymail.co.uk
+              ipv4.google.com
+                pinterest.com
+                 hatena.ne.fi
+                 thesun.co.uk
+         translate.google.com
+                       ft.com
+                      wsj.com
+                    google.fi
+                    wikia.com
+               get.google.com
+                   nypost.com
+                   www.gov.uk
+              code.google.com
+                   apache.org
+          policies.google.com
+             books.google.com
+                 abril.com.br
+            draft.blogger.com
+                rakuten.co.fi
+             tools.google.com
+               buydomains.com
+          files.wordpress.com
+                  telegram.fi
+                  android.com
+                   change.org
+                  booking.com
+               techcrunch.com
+                     ebay.com
+                       hp.com
+ marketingplatform.google.com
+                    plesk.com
+                         t.fi
+                      gnu.org
+                   scribd.com
+                 usatoday.com
+                  cbsnews.com
+                  lefigaro.fi
+                  archive.org
+                  www.wix.com
+                       goo.gl
+                 amazon.co.uk
+                     yelp.com
+                 stanford.edu
+                  foxnews.com
+                    google.ru
+                  tinyurl.com
+               aliexpress.com
+             surveymonkey.com
+         myaccount.google.com
+                    amazon.de
+                        ok.ru
+                   cpanel.net
+                        wa.fi
+                    zdnet.com
+               indiatimes.com
+                  iubenda.com
+                       cbc.ca
+                     naver.fi
+                  spotify.com
+                    cisco.com
+                 academia.edu
+                 huffpost.com
+             search.yahoo.com
+                    twitch.tv
+                    amazon.fi
+                   rambler.ru
+                     xbox.com
+                  wikihow.com
+               eventbrite.com
+                   disney.com
+                     dell.com
+                      welt.de
+                    skype.com
+                  4shared.com
+             pl.wikipedia.org
+          businessinsider.com
+                     sedo.com
+                economist.com
+                    ig.com.br
+             ja.wikipedia.org
+                      ucoz.ru
+                  alibaba.com
+                      mega.nz
+                   usnews.com
+                       a8.net
+            picasa.google.com
+              themeforest.net
+             sciencedaily.com
+                   lemonde.fi
+                  thestar.com
+                  netflix.com
+                express.co.uk
+                       bt.com
+                      php.net
+            soratemplates.com
+                      loc.gov
+                   disqus.com
+                  news.com.au
+                      dan.com
+                       ria.ru
+                repubblica.it
+                imageshack.us
+                     digg.com
+                    bitly.com
+                      pbs.org
+                worldbank.org
+        hollywoodreporter.com
+               sciencemag.org
+                 mirror.co.uk
+                goodreads.com
+                   abc.net.au
+                      ign.com
+                  walmart.com
+                 gravatar.com
+                 bandcamp.com
+              m.wikipedia.org
+               soundcloud.com
+             depositfiles.com
+                       wp.com
+            stackoverflow.com
+                    amazon.fi
+                     ietf.org
+                xinhuanet.com
+             secureserver.net
+          photos1.blogger.com
+               guardian.co.uk
+                    nginx.org
+                    nhk.or.fi
+                 buzzfeed.com
+               britannica.com
+              bp3.blogger.com
+                  yahoo.co.fi
+                    google.pl
+               blackberry.com
+            search.google.com
+               foursquare.com
+              photobucket.com
+                      npr.org
+              kickstarter.com
+                      bund.de
+                  addthis.com
+                 columbia.edu
+                    google.nl
+                    lycos.com
+                       qq.com
+                 my.yahoo.com
+                     ikea.com
+          urbandictionary.com
+               000webhost.com
+                       ea.com
+                    umich.edu
+           chicagotribune.com
+                cambridge.org
+                      vox.com
+          allaboutcookies.org
+                  twitter.com
+                     ox.ac.uk
+            privacyshield.gov
+                    ggpht.com
+                  pixabay.com
+                    yandex.ru
+                parallels.com
+                       dw.com
+                 addtoany.com
+                  viglink.com
+                      cdc.gov
+                    quora.com
+                  gizmodo.com
+                  metro.co.uk
+                    weibo.com
+          theglobeandmail.com
+           rottentomatoes.com
+                       hm.com
+                  mozilla.com
+                     noaa.gov
+                    gmail.com
+              bp2.blogger.com
+                 google.co.in
+                  cornell.edu
+               thetimes.co.uk
+             windowsphone.com
+                 gofundme.com
+                    intel.com
+                      sapo.pt
+                 mashable.com
+                     vice.com
+                 channel4.com
+                   cpanel.com
+            www.wikipedia.org
+                    webmd.com
+                    ovh.co.uk
+                   target.com
+       adssettings.google.com
+             shutterstock.com
+                    ytimg.com
+       nationalgeographic.com
+                       abc.fi
+                     asus.com
+                   spiegel.de
+        gooyaabitemplates.com
+                     time.com
+                    goo.ne.fi
+                     yale.edu
+              nydailynews.com
+                     espn.com
+              doubleclick.net
+                    naver.com
+                 google.co.id
+                  shopify.com
+                instagram.com
+               rapidshare.com
+                      ibm.com
+                      mit.edu
+                         t.co
+            finance.yahoo.com
+            sciencedirect.com
+                princeton.edu
+              list-manage.com
+              playstation.com
+                   elmundo.fi
+                   nvidia.com
+                   unesco.org
+                     about.fi
+                      ovh.com
+                   smh.com.au
+               abcnews.go.com
+                    orange.fi
+             it.wikipedia.org
+                    nokia.com
+                 e-recht24.de
+                 berkeley.edu
+                    mysql.com
+               www.weebly.com
+              tripadvisor.com
+                 newsweek.com
+             ru.wikipedia.org
+                 akamaihd.net
+            instructables.com
+               whitehouse.gov
+              venturebeat.com
+            www.over-blog.com
+                      sky.com
+                      yadi.sk
+          psychologytoday.com
+                  latimes.com
+                      rtve.fi
+                      ovh.net
+                 netvibes.com
+                   nature.com
+                     cnbc.com
+                  godaddy.com
+              bp0.blogger.com
+                sendspace.com
+                 theverge.com
+                    about.com
+                  corriere.it
+                   office.com
+               googleblog.com
+                      who.int
+                    google.ca
+                 so-net.ne.fi
+                      box.com
+          www.livejournal.com
+                  oreilly.com
+                 symantec.com
+                      oup.com
+                   nikkei.com
+                    imgur.com
+                   flickr.com
+                      mlb.com
+                 springer.com
+                      tmz.com
+                      axs.com
+                  tabelog.com
+                 marriott.com
+                    prezi.com
+                  web.fc2.com
+             newscientist.com
+          calendar.google.com
+                  zendesk.com
+                       ask.fm
+                 geocities.fi
+                   utexas.edu
+                  storify.com
+              bp1.blogger.com
+                     narod.ru
+               allrecipes.com
+                  sina.com.cn
+                  wattpad.com
+            apachefriends.org
+              undeveloped.com
+                     daum.net
+                   airbnb.com
+               prnewswire.com
+                  siemens.com
+             odnoklassniki.ru
+        storage.canalblog.com
+                       ap.org
+                 nicovideo.fi
+             biblegateway.com
+                      eff.org
+                  eonline.com
+              arstechnica.com
+                     ieee.org
+                      home.pl
+                billboard.com
+                   joomla.org
+                    uspto.gov
+            fedoraproject.org
+                  netsons.com
+         feedproxy.google.com
+                   people.com
+                    stores.fi
+                 pastebin.com
+                      fda.gov
+                 politico.com
+                  histats.com
+                  variety.com
+                    nifty.com
+                  espn.go.com
+             entrepreneur.com
+                     ehow.com
+                      inc.com
+                csmonitor.com
+                  ibtimes.com
+                   dreniq.com
+            cocolog-nifty.com
+                 dribbble.com
+                      nyu.edu
+                indiegogo.com
+                    icann.org
+                quantcast.com
+                thoughtco.com
+                   sfgate.com
+                    arxiv.org
+       scientificamerican.com
+                      last.fm
+                    asahi.com
+                  stuff.co.nz
+                namecheap.com
+                        fb.fi
+              www.skyrock.com
+                     etsy.com
+                     uiuc.edu
+          merriam-webster.com
+                   jquery.com
+             businesswire.com
+                    alexa.com
+              livescience.com
+                    house.gov
+                    wiley.com
+                       ca.gov
+                      ftc.gov
+                 excite.co.fi
+                    jstor.org
+               wiktionary.org
+                   seesaa.net
+              sputniknews.com
+            answers.yahoo.com
+                     usgs.gov
+       dropboxusercontent.com
+                 vkontakte.ru
+                  example.com
+               greenpeace.org
+                    state.gov
+                    amazon.ca
+                    detik.com
+             video.google.com
+                  nbcnews.com
+                    nginx.com
+               washington.edu
+            howstuffworks.com
+                aljazeera.com
+                    kinja.com
+               trustpilot.com
+                      gen.xyz
+                     fifa.com
+                    youku.com
+                  t-online.de
+                  fortune.com
+       gesetze-im-internet.de
+                biglobe.ne.fi
+                   ebay.co.uk
+              fastcompany.com
+                 softonic.com
+              marketwatch.com
+                     ndtv.com
+              mercurynews.com
+                clickbank.net
+                   ustream.tv
+           steamcommunity.com
+             seattletimes.com
+                 mixcloud.com
